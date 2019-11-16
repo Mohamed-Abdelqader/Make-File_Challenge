@@ -1,0 +1,1 @@
+.o: Src/LCD.c
